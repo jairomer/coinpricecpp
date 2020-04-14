@@ -13,7 +13,7 @@ Usage:
 
 I tried to imitate the KISS philosophy used in traditional UNIX tools.
 
-You call the command, by default it returns the current bitcoin price from coindesk in Euros, because that is what I have where we live.
+You call the command, by default it returns the current bitcoin price from coindesk in Euros.
 
 USD and GBP are also supported.
 
