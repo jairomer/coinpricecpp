@@ -26,4 +26,4 @@ For now it only supports BTC.
 - [JSON  for Modern C++](https://github.com/nlohmann/json)
 - [C++ Requests: Curl for People](https://github.com/whoshuu/cpr)
 
-_The question remains, how far can I go with Modern C++ until finding the complexity issues that interpreted languages have promised to solve?_
+_The question remains, how far can I go with modern C++ until finding the complexity issues that interpreted languages have promised to solve?_
